@@ -3,8 +3,8 @@
 </p> -->
 
 <p align="center">
-  <a href="https://Academic-Codex.github.io/SET0623-Mecanica-dos-Solidos">
-    <img src=".github/readme/hero.svg?v=2026-01-08T01:40:57.522234Z" width="100%" alt="Access the course website" />
+  <a href="https://academic-codex.github.io/SET0623-Mecanica-dos-Solidos?utm_source=SET0623-Mecanica-dos-Solidos&utm_medium=readme">
+    <img src=".github/readme/hero.svg?v=2026-02-03T01:41:07.683123Z" width="100%" alt="Access the course website" />
   </a>
 </p>
 
